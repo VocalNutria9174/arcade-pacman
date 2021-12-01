@@ -5,16 +5,16 @@
 <link rel="icon" href="pac-icon-man.png">
 </head>
 <body>
-<script>
-var NepPlayer = "#player";     
 
-var NepEmu = "arcade";         
- 
-var NepLang = "en";
+<div id="play" style="height:500px;"></div>
 
-var gameUrl = "pacman.zip";
+<script type="text/javascript">
+	EJS_player = '#play';
+	EJS_biosUrl = 'bios/arcade.7z'; // Url to Bios file
+	EJS_gameUrl = 'game/pacman.zip'; // Url to Game rom
+	EJS_core = 'arcade';
 </script>
-<div id="player"></div>
-<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript"></script>
+<script src="https://www.emulatorjs.com/loader.js"></script>	
+
 </body>
 </html>
