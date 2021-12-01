@@ -1,8 +1,8 @@
-# capcom-pacman
+# arcade-pacman
 The original Arcade Pac-man by Midway, in an emulator. (this sadly can't be played offline =[ )
 
 ##Play the game:
-https://vocalnutria9174.github.io/capcom-pacman
+https://vocalnutria9174.github.io/arcade-pacman
 
 ##About the game
 *Acording to Wikipedia:*
